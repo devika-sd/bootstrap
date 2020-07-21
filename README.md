@@ -15,7 +15,7 @@ here i am uploading my sample practice bootstrap excerise
 1)adobe xd
 2)draw.io
 
-# Ror ui design ideas
+# For ui design ideas
 1)ui pattern
 
 # For sample website design 
