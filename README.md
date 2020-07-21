@@ -7,16 +7,16 @@ we can initiatize bootstrap in different ways
 
 here i am uploading my sample practice bootstrap excerise
 
-for wireframing
+# For wireframing
 1)balsamiq.cloud
 2)sneakpeekit
 
-wireframing tool
+# Wireframing tool
 1)adobe xd
 2)draw.io
 
-for ui design ideas
+# Ror ui design ideas
 1)ui pattern
 
-for sample website design 
+# For sample website design 
 1)dribble
