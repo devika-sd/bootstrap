@@ -6,3 +6,17 @@ we can initiatize bootstrap in different ways
 2) by downloading the boostrap in the system & linking the address of the boostrap.css file 
 
 here i am uploading my sample practice bootstrap excerise
+
+for wireframing
+1)balsamiq.cloud
+2)sneakpeekit
+
+wireframing tool
+1)adobe xd
+2)draw.io
+
+for ui design ideas
+1)ui pattern
+
+for sample website design 
+1)dribble
